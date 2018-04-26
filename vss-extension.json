@@ -28,7 +28,7 @@
       "uri": "http://blog.majcica.com/"
     },
     "support": {
-      "uri": "http://blog.majcica.com/2018/04/25/deploy-ssis-packages-from-tfs-vsts-build-release/"
+      "uri": ""
     },
     "repository": {
         "uri": "https://github.com/mmajcica/SpecFlowReportGeneratorTask"
@@ -47,7 +47,7 @@
   },
   "screenshots": [
     {
-        "path": "images/ssis-task.png"
+        "path": "images/screenshot.png"
     }
   ],
   "content": {
