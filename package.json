@@ -1,24 +1,23 @@
 {
-  "name": "mmajcica.deployssis",
+  "name": "mmajcica.specflowgen",
   "version": "0.1.0",
-  "description": "Build/Release task for TFS/VSTS that will allow you to deploy packages on SQL SSIS.",
+  "description": "Generates SpecFlow test execution reports in HTML format.",
   "author": "Mario Majcica",
   "license": "MIT",
-  "homepage": "https://github.com/mmajcica/DeploySsis#readme",
+  "homepage": "https://github.com/mmajcica/SpecFlowReportGeneratorTask#readme",
   "bugs": {
-    "url": "https://github.com/mmajcica/DeploySsis/issues"
+    "url": "https://github.com/mmajcica/SpecFlowReportGeneratorTask/issues"
   },
   "keywords": [
-    "VSTS",
-    "release",
-    "build",
-    "SSIS",
-    "Deploy",
-    "SQL"
+    "SpecFlow",
+    "Test",
+    "HTML",
+    "Report",
+    "Reports"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mmajcica/DeploySsis.git"
+    "url": "git+https://github.com/mmajcica/SpecFlowReportGeneratorTask.git"
   },
   "devDependencies": {
     "del": "^2.0.0",

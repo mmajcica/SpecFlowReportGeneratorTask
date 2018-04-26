@@ -4,7 +4,7 @@
   "friendlyName": "SpecFlow Report Generator",
   "description": "SpecFlow Report Generator",
   "author": "Mario Majcica",
-  "helpMarkDown": "Replace with markdown to show in help",
+  "helpMarkDown": "Generates SpecFlow test execution reports in HTML format.",
   "category": "Test",
   "visibility": [
     "Build",
@@ -22,7 +22,7 @@
     {
       "name": "reportType",
       "type": "pickList",
-      "label": "Test Execution Report",
+      "label": "Test Execution Report type",
       "required": true,
       "defaultValue": "mstestexecutionreport",
       "options": {

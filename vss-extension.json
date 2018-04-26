@@ -1,10 +1,10 @@
 {
   "manifestVersion": 1,
-  "extensionId": "deploy-ssis",
-  "name": "Deploy SSIS",
-  "version": "1.0.5",
+  "extensionId": "SpecFlowReportGenerator",
+  "name": "SpecFlow Report Generator",
+  "version": "1.0.0",
   "publisher": "mmajcica",
-  "description": "Deploy SSIS packages",
+  "description": "Generates SpecFlow test execution reports in HTML format.",
   "public": false,
   "galleryFlags": [
     "Public"
@@ -17,10 +17,11 @@
     "Build and release"
   ],
   "tags": [
-    "SQL Server Integration Services",
-    "SSIS",
-    "SQL",
-    "ispac"
+    "SpecFlow",
+    "Test",
+    "HTML",
+    "Report",
+    "Reports"
   ],
   "links": {
     "home": {
@@ -30,15 +31,15 @@
       "uri": "http://blog.majcica.com/2018/04/25/deploy-ssis-packages-from-tfs-vsts-build-release/"
     },
     "repository": {
-        "uri": "https://github.com/mmajcica/DeploySsis"
+        "uri": "https://github.com/mmajcica/SpecFlowReportGeneratorTask"
     },
     "issues": {
-        "uri": "https://github.com/mmajcica/DeploySsis/issues"
+        "uri": "https://github.com/mmajcica/SpecFlowReportGeneratorTask/issues"
     }
   },
   "repository": {
       "type": "git",
-      "uri": "https://github.com/mmajcica/DeploySsis"
+      "uri": "https://github.com/mmajcica/SpecFlowReportGeneratorTask"
   },
   "branding": {
     "color": "#e9ebed",
@@ -71,7 +72,7 @@
   ],
   "contributions": [
     {
-      "id": "DeployIsPacs",
+      "id": "SpecFlowReportGeneratorTask",
       "type": "ms.vss-distributed-task.task",
       "targets": [
         "ms.vss-distributed-task.tasks"
