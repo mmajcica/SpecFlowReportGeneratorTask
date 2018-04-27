@@ -2,6 +2,32 @@ The MIT License (MIT)
 
 Copyright (c) 2018 Mario Majcica
 
+Disclaimer:
+    * This software ships with the TechTalk SpecFlow binaries which are under Copyright (c) 2009, TechTalk. More info at https://github.com/techtalk/SpecFlow/blob/master/LICENSE.txt
+
+    Full excerpt of SpecFlow licence:
+
+    SpecFlow Licence (New BSD License)
+
+    Copyright (c) 2009, TechTalk
+
+    Disclaimer:
+    * The initial codebase of Specflow was written by TechTalk employees. 
+    No 3rd party code was included.
+    * No code of customer projects was used to create this project.
+    * TechTalk had the full rights to publish the initial codebase.
+
+    Redistribution and use in source and binary forms, with or without
+    modification, are permitted provided that the following conditions are met:
+    * Redistributions of source code must retain the above copyright
+    notice, this list of conditions and the following disclaimer.
+    * Redistributions in binary form must reproduce the above copyright
+    notice, this list of conditions and the following disclaimer in the
+    documentation and/or other materials provided with the distribution.
+    * Neither the name of the SpecFlow project nor the
+    names of its contributors may be used to endorse or promote products
+    derived from this software without specific prior written permission.
+
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
