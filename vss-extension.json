@@ -2,7 +2,7 @@
   "manifestVersion": 1,
   "extensionId": "SpecFlowReportGenerator",
   "name": "SpecFlow Report Generator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "mmajcica",
   "description": "Generates SpecFlow test execution reports in HTML format.",
   "public": false,

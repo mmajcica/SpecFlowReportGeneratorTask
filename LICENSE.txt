@@ -28,6 +28,9 @@ Disclaimer:
     names of its contributors may be used to endorse or promote products
     derived from this software without specific prior written permission.
 
+Icon used is based on CC 3.0 license. Following the credits
+Icons made by Prosymbols from >www.flaticon.com is licensed by Creative Commons BY 3.0.
+
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights

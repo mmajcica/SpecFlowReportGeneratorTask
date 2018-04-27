@@ -18,6 +18,7 @@ No specific requirements are present for this task to run.
 * **Output File**: Generated Output File. Default: StepDefinitionReport.html and is going to be persisted in AGENT_BUILDDIRECTORY in case of a build, meanwhile in case of a release it is going to be placed in AGENT_RELEASEDIRECTORY
 
 ## Release notes
+1.0.1 - Adjusted the license terms and changed the icons
 1.0.0 - Initial Release - Ships with SpecFlow 2.3.1
 
 ## Contributing
