@@ -1,12 +1,16 @@
 # SpecFlow Report generator Task
-### Overview
+
+## Overview
+
 This extension will add a Build/Release task in your TFS/VSTS instance that will allow you to generate SpecFlow test execution reports. Task ships with the necessary SpecFlow executable files.
 
-### Requirements
+## Requirements
 
 No specific requirements are present for this task to run.
 
-### The different parameters of the task are explained below:
+## Parameters
+
+The different parameters of the task are explained below:
 
 * **Test Execution Report type**: Three different types of reports are supported, MsTest Execution Report, NUnit Execution Report and Step Definition Report.
 * **Project File**: A path of the project file containing the feature files. This is a mandatory parameter.
@@ -18,8 +22,10 @@ No specific requirements are present for this task to run.
 * **Output File**: Generated Output File. Default: StepDefinitionReport.html and is going to be persisted in AGENT_BUILDDIRECTORY in case of a build, meanwhile in case of a release it is going to be placed in AGENT_RELEASEDIRECTORY
 
 ## Release notes
-1.0.1 - Adjusted the license terms and changed the icons
-1.0.0 - Initial Release - Ships with SpecFlow 2.3.1
+
+* 1.0.2 - Minor adjustments to the extension. No changes for the task.
+* 1.0.1 - Adjusted the license terms and changed the icons
+* 1.0.0 - Initial Release - Ships with SpecFlow 2.3.1
 
 ## Contributing
 

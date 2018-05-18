@@ -2,7 +2,7 @@
   "manifestVersion": 1,
   "extensionId": "SpecFlowReportGenerator",
   "name": "SpecFlow Report Generator",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publisher": "mmajcica",
   "description": "Generates SpecFlow test execution reports in HTML format.",
   "public": false,
@@ -28,7 +28,7 @@
       "uri": "http://blog.majcica.com/"
     },
     "support": {
-      "uri": ""
+      "uri": "http://blog.majcica.com/2018/05/07/living-documentation-and-test-reports-in-vsts-tfs-pipelines"
     },
     "repository": {
         "uri": "https://github.com/mmajcica/SpecFlowReportGeneratorTask"
@@ -52,8 +52,10 @@
   ],
   "content": {
     "details": {
-      "path": "README.md",
-      "license": { "path": "LICENSE.txt" }
+        "path": "README.md"
+    },
+    "license": {
+        "path": "LICENSE.txt"
     }
   },
   "files": [
