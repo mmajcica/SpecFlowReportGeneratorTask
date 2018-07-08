@@ -1,7 +1,7 @@
 {
   "id": "064be1b0-3bf6-11e8-a3b0-9b14c8b87afb",
   "name": "SpecFlowReportGenerator",
-  "friendlyName": "SpecFlow Report Generator",
+  "friendlyName": "Report Generator for SpecFlow",
   "description": "SpecFlow Test Execution Report Generator",
   "author": "Mario Majcica",
   "helpMarkDown": "Generates SpecFlow test execution reports in HTML format.",
@@ -14,7 +14,7 @@
   "version": {
     "Major": "1",
     "Minor": "0",
-    "Patch": "1"
+    "Patch": "2"
   },
   "minimumAgentVersion": "1.95.0",
   "instanceNameFormat": "Generate SpecFlow Report",

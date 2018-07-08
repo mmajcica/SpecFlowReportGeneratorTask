@@ -1,4 +1,4 @@
-# SpecFlow Report generator Task
+# Report Generator for SpecFlow
 
 ## Overview
 
@@ -23,6 +23,8 @@ The different parameters of the task are explained below:
 
 ## Release notes
 
+* 1.0.4 - Updated documentation
+* 1.0.3 - Renamed the extension and the task - [#1136](https://github.com/techtalk/SpecFlow/issues/1136)
 * 1.0.2 - Minor adjustments to the extension. No changes for the task.
 * 1.0.1 - Adjusted the license terms and changed the icons
 * 1.0.0 - Initial Release - Ships with SpecFlow 2.3.1
